@@ -1,1 +1,1 @@
-This is a command line tool to set a MultiPro cardread/write into the desired mode.
+This is a command line tool to set a MultiPro card reader/writer into the desired mode in Linux.
